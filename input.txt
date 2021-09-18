@@ -1,0 +1,4 @@
+abcbacbacaabc
+a 2 b c true false
+b 2 a c false false
+c 2 a b false true
